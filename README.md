@@ -1,6 +1,6 @@
 # Gestion d’une migration vers le cloud
 <div align="center">
-    <img src="images/infra1.png" alt="infra" width="80%" height="80%">
+    <img src="images/procedure_migration.png" alt="infra" width="80%" height="80%">
 </div>
 
 Ecriture d’un rapport qui permet de lister l’ensemble des tâches nécessaires à la migration du service vers le cloud. Ce document prend en compte :
